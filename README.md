@@ -1,6 +1,10 @@
-💡 Sobre el Desafío: Challenge Amigo secreto💡
+💡 Desafío: Challenge Amigo secreto💡
 
-Fucionalidades:
+Ingresa al link y juega al amigo secreto con tus compañeros o amigos!!
+
+https://acarolina7.github.io/Challenge-Amigo-secreto/
+
+Guia:
 
 Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
